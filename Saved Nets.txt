@@ -1,0 +1,6 @@
+First Saved Net, when NEAT is first finished:
+7/15/2022
+2 hidden nodes, 9 connections
+--
+'{"nodes":[{"n":1,"type":"inp","out":1},{"n":2,"type":"inp","out":-1},{"n":3,"type":"bias","out":1},{"n":4,"type":"out","out":0.9805338321681507},{"n":5,"type":"hid","out":0.9958557742342742},{"n":6,"type":"hid","out":0.7486587330953165}],"conn":[{"in":3,"out":4,"weight":-5.373371163403681,"enabled":true,"rec":false,"n":1},{"in":1,"out":4,"weight":5.786865349346574,"enabled":false,"rec":false,"n":2},{"in":1,"out":5,"weight":-2.9866469047399655,"enabled":true,"rec":false,"n":3},{"in":5,"out":4,"weight":11.607252312583363,"enabled":true,"rec":false,"n":4},{"in":2,"out":4,"weight":6.28648119816334,"enabled":true,"rec":false,"n":5},{"in":3,"out":5,"weight":4.94403493134252,"enabled":true,"rec":false,"n":6},{"in":2,"out":5,"weight":-4.219724186641112,"enabled":true,"rec":false,"n":7},{"in":6,"out":4,"weight":6.30881152932439,"enabled":true,"rec":false,"n":11},{"in":1,"out":6,"weight":1.9397926900469615,"enabled":true,"rec":false,"n":13}],"struct":[[{"n":1,"type":"inp","out":1},{"n":2,"type":"inp","out":-1},{"n":3,"type":"bias","out":1}],[{"n":5,"type":"hid","out":0.9958557742342742},{"n":6,"type":"hid","out":0.7486587330953165}],[{"n":4,"type":"out","out":0.9805338321681507}]],"numIn":2,"numOut":1}'
+--

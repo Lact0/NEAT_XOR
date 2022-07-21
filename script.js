@@ -81,4 +81,5 @@ function keyPress(key) {
 function leftClick() {
   const x = event.clientX;
   const y = event.clientY;
+  showBestAi();
 }
